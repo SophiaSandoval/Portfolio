@@ -1,0 +1,24 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "Microservices", "Monorepo"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Typescript","Python","Git","Solidity","Tailwind", "Javascript"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Node.js","Github","Figma","Hugo"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":["TypeORM", "Postgress"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Firebase","link":"https://firebase.google.com"}
+      ]
+  }
+]

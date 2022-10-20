@@ -17,8 +17,8 @@
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"Firebase","link":"https://firebase.google.com"}
+          {"name":"Docker"},
+          {"name":"Firebase"}
       ]
   }
 ]

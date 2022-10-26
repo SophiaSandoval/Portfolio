@@ -4,11 +4,23 @@
       "skills":[ "Microservices", "Monorepo"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Typescript","Python","Git","Solidity","Tailwind", "Javascript"]
+      "skills":[ 
+        {"name": "Typescript", "icon": "devicon-typescript-plain"},
+        {"name": "Python", "icon": "devicon-python-plain"},
+        {"name": "Git", "icon": "devicon-git-plain"},
+        {"name": "Solidity", "icon": "devicon-solidity-plain"},
+        {"name": "Tailwind", "icon": "devicon-tailwindcss-plain"}
+        ]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Node","Nest.js","Github","Figma","Hugo"]
+      "skills":[
+        {"name": "Node", "icon": "devicon-nodejs-plain"},
+        {"name": "Nest.js", "icon": "devicon-nestjs-plain"},
+        {"name": "Github", "icon": "devicon-github-original"},
+        {"name": "Figma", "icon": "devicon-figma-plain"},
+        {"name": "Hugo", "icon": "devicon-hugo-plain"}
+        ]
   },
   {
       "grouping":"Data Management",

@@ -8,17 +8,20 @@
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Node.js","Github","Figma","Hugo"]
+      "skills":[ "Node","Nest.js","Github","Figma","Hugo"]
   },
   {
       "grouping":"Data Management",
-      "skills":["TypeORM", "Postgress"]
+      "skills":[
+        {"name": "TypeORM", "icon": "devicon-typescript-plain"},
+        {"name": "PostgreSQL", "icon": "devicon-postgresql-plain"}
+    ]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"Docker"},
-          {"name":"Firebase"}
+          {"name":"Docker", "icon": "devicon-docker-plain"},
+          {"name":"Firebase", "icon": "devicon-firebase-plain"}
       ]
   }
 ]
